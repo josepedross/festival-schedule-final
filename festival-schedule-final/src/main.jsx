@@ -6,17 +6,17 @@ const concerts = [
   // Day 1
   {
     day: "Day 1",
-    artist: "Gustavo Santaolalla",
-    stage: "Lago Stage",
-    start: "16:30",
-    end: "17:30",
+    artist: "Overcrooks",
+    stage: "Stage 3",
+    start: "22:00",
+    end: "23:00",
   },
   {
     day: "Day 1",
-    artist: "The Legendary Tigerman",
-    stage: "Echo Stage",
-    start: "18:00",
-    end: "19:00",
+    artist: "Daily Thompson",
+    stage: "Stage 3",
+    start: "23:00",
+    end: "23:55",
   },
   // Day 2
   {
