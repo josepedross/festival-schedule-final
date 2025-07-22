@@ -5,18 +5,32 @@ import "./index.css";
 const concerts = [
   // Day 1
   {
-    day: "Day 1",
-    artist: "The Rolling Tones",
-    stage: "Main Stage",
-    start: "14:00",
-    end: "15:00",
+    day: "6 Agosto",
+    artist: "Overcrooks",
+    stage: "Palco 3",
+    start: "22:00",
+    end: "23:00",
   },
   {
-    day: "Day 1",
-    artist: "Jazz Raiders",
-    stage: "Jazz Tent",
-    start: "14:30",
-    end: "16:00",
+    day: "6 Agosto",
+    artist: "Overcrooks",
+    stage: "Palco 3",
+    start: "22:00",
+    end: "23:00",
+  },
+  {
+    day: "6 Agosto",
+    artist: "Overcrooks",
+    stage: "Palco 3",
+    start: "23:00",
+    end: "24:00",
+  },
+  {
+    day: "6 Agosto",
+    artist: "Overcrooks",
+    stage: "Palco 3",
+    start: "24:00",
+    end: "01:00",
   },
   // Day 2
   {
